@@ -130,7 +130,7 @@ body {
 .cover_description {
 
     display: flex;
-    justify-content: space-between;  
+    justify-content: space-between;
     position: relative;
     padding: 50px;
     align-items: center;
