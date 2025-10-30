@@ -7,7 +7,8 @@ body {
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     padding: 92px 50px 96px 50px;
-    align-items: center; 
+    align-items: center;
+
 }
 
 .header-menu {
@@ -127,6 +128,7 @@ body {
 }
 
 .cover_description {
+
     display: flex;
     justify-content: space-between;  
     position: relative;
@@ -327,15 +329,6 @@ body {
     grid-row: 1;
     justify-self: start;
     align-self: start;
-}
-
-.adress-list {
-    list-style: none;
-}
-
-.street {
-    white-space: wrap;
-    text-decoration: none;
 }
 
 .footer__menu {
